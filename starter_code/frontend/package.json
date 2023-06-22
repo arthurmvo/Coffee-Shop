@@ -1,6 +1,7 @@
 {
   "name": "udaspicelatte",
   "version": "0.0.1",
+  "engines": {"node":"16.15.0"}, 
   "author": "Ionic Framework",
   "homepage": "https://ionicframework.com/",
   "scripts": {
